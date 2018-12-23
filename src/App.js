@@ -137,6 +137,7 @@ class App extends Component {
 App.propTypes = {
   columns: PropTypes.number.isRequired,
   rows: PropTypes.number.isRequired,
+  status: PropTypes.number.isRequired,
   changeStatus: PropTypes.func.isRequired,
   travelledCells: PropTypes.number.isRequired,
   updateMove: PropTypes.func.isRequired

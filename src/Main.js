@@ -54,6 +54,9 @@ class Main extends Component {
     );
   };
 
+  updateMove = () =>
+    this.setState({ travelledCells: this.state.travelledCells + 1 });
+
   render() {
     const { columns, rows, travelledCells, status } = this.state;
     return (
@@ -67,9 +70,7 @@ class Main extends Component {
               rows={rows}
               changeStatus={this.changeStatus}
               travelledCells={travelledCells}
-              updateMove={() =>
-                this.setState({ travelledCells: travelledCells + 1 })
-              }
+              updateMove={this.updateMove}
               status={status}
             />
           )}
