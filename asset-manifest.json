@@ -1,0 +1,16 @@
+{
+  "main.css": "/mario/static/css/main.b431bd53.chunk.css",
+  "main.js": "/mario/static/js/main.a2dd4c3f.chunk.js",
+  "main.js.map": "/mario/static/js/main.a2dd4c3f.chunk.js.map",
+  "static/js/1.af2b0694.chunk.js": "/mario/static/js/1.af2b0694.chunk.js",
+  "static/js/1.af2b0694.chunk.js.map": "/mario/static/js/1.af2b0694.chunk.js.map",
+  "runtime~main.js": "/mario/static/js/runtime~main.c1e026f1.js",
+  "runtime~main.js.map": "/mario/static/js/runtime~main.c1e026f1.js.map",
+  "static/css/main.b431bd53.chunk.css.map": "/mario/static/css/main.b431bd53.chunk.css.map",
+  "static/media/mario.png": "/mario/static/media/mario.dbe70930.png",
+  "static/media/arrow.png": "/mario/static/media/arrow.e4a9dc72.png",
+  "static/media/mushroom.png": "/mario/static/media/mushroom.0ad9b5a9.png",
+  "index.html": "/mario/index.html",
+  "precache-manifest.90d1b80023104de9cf1a476c0534a576.js": "/mario/precache-manifest.90d1b80023104de9cf1a476c0534a576.js",
+  "service-worker.js": "/mario/service-worker.js"
+}
