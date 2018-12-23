@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mario/precache-manifest.90d1b80023104de9cf1a476c0534a576.js"
+  "/mario/precache-manifest.89b1a93f28d45477d83555e40699393d.js"
 );
 
 workbox.clientsClaim();

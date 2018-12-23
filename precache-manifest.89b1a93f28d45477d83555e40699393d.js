@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/mario/static/js/runtime~main.c1e026f1.js"
   },
   {
-    "revision": "a2dd4c3f55642793530d",
-    "url": "/mario/static/js/main.a2dd4c3f.chunk.js"
+    "revision": "6e9e158c7a3b849e251b",
+    "url": "/mario/static/js/main.6e9e158c.chunk.js"
   },
   {
     "revision": "af2b06947b03c4cd2b94",
     "url": "/mario/static/js/1.af2b0694.chunk.js"
   },
   {
-    "revision": "a2dd4c3f55642793530d",
+    "revision": "6e9e158c7a3b849e251b",
     "url": "/mario/static/css/main.b431bd53.chunk.css"
   },
   {
-    "revision": "8ec9bf729650f40d0dbc145bebe58d3d",
+    "revision": "dc32951694e9628fb7f8b5538ac28d3f",
     "url": "/mario/index.html"
   }
 ];

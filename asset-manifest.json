@@ -1,7 +1,7 @@
 {
   "main.css": "/mario/static/css/main.b431bd53.chunk.css",
-  "main.js": "/mario/static/js/main.a2dd4c3f.chunk.js",
-  "main.js.map": "/mario/static/js/main.a2dd4c3f.chunk.js.map",
+  "main.js": "/mario/static/js/main.6e9e158c.chunk.js",
+  "main.js.map": "/mario/static/js/main.6e9e158c.chunk.js.map",
   "static/js/1.af2b0694.chunk.js": "/mario/static/js/1.af2b0694.chunk.js",
   "static/js/1.af2b0694.chunk.js.map": "/mario/static/js/1.af2b0694.chunk.js.map",
   "runtime~main.js": "/mario/static/js/runtime~main.c1e026f1.js",
@@ -11,6 +11,6 @@
   "static/media/arrow.png": "/mario/static/media/arrow.e4a9dc72.png",
   "static/media/mushroom.png": "/mario/static/media/mushroom.0ad9b5a9.png",
   "index.html": "/mario/index.html",
-  "precache-manifest.90d1b80023104de9cf1a476c0534a576.js": "/mario/precache-manifest.90d1b80023104de9cf1a476c0534a576.js",
+  "precache-manifest.89b1a93f28d45477d83555e40699393d.js": "/mario/precache-manifest.89b1a93f28d45477d83555e40699393d.js",
   "service-worker.js": "/mario/service-worker.js"
 }
