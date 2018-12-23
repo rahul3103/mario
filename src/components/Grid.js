@@ -50,4 +50,4 @@ Grid.propTypes = {
   mushroomsPos: PropTypes.array.isRequired
 };
 
-export default Grid;
+export default React.memo(Grid);

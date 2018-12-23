@@ -32,4 +32,4 @@ GridCell.propTypes = {
   mushroom: PropTypes.bool.isRequired
 };
 
-export default GridCell;
+export default React.memo(GridCell);
